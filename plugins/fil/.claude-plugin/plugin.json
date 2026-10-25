@@ -1,0 +1,14 @@
+{
+  "name": "fil",
+  "displayName": "Fil",
+  "version": "1.0.0",
+  "description": "Make images, video, 3D, websites, slides and social posts on your Fil canvas from Claude Code, with Fil's skills for landing pages, story videos, posts, HTML demos and reels.",
+  "author": { "name": "Fil", "url": "https://fil.design" },
+  "homepage": "https://fil.design",
+  "repository": "https://github.com/MengTo/fil-plugins",
+  "keywords": ["design", "canvas", "images", "video", "3d", "websites", "slides", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://fil.design/docs/mcp-tools",
+  "privacyPolicyUrl": "https://fil.design/privacy",
+  "termsOfServiceUrl": "https://fil.design/terms"
+}

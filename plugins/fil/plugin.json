@@ -1,0 +1,49 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fil",
+  "version": "1.0.0",
+  "description": "Make images, video, 3D, websites, slides and social posts on your Fil canvas, with the best models, as nodes you keep working with.",
+  "author": {
+    "name": "Fil",
+    "url": "https://fil.design"
+  },
+  "homepage": "https://fil.design",
+  "keywords": [
+    "design",
+    "canvas",
+    "images",
+    "video",
+    "3d",
+    "websites",
+    "slides"
+  ],
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/setup/SKILL.md",
+      "interface": {
+        "displayName": "Fil",
+        "shortDescription": "Make it on your Fil canvas",
+        "longDescription": "Fil is a canvas for making images, video, 3D models, websites, slides, social posts and audio with the best models. Ask in the chat and it happens on your canvas, live: prompts, files and generation nodes wired together, every run kept, so you can open the canvas in Fil and keep going. Before a run uses your Fil credits, it tells you what it will cost and waits for you. Websites keep their pages, design system and data as parts you can change, and publish when you ask. Video edits cut your clips, pictures and words into one video.",
+        "developerName": "Fil",
+        "category": "Design",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "websiteURL": "https://fil.design",
+        "privacyPolicyURL": "https://fil.design/privacy",
+        "termsOfServiceURL": "https://fil.design/terms",
+        "defaultPrompt": "Make a canvas for a coffee brand: a logo, three product shots and a landing page.",
+        "brandColor": "#08090a",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png",
+        "screenshots": [
+          "./assets/screenshot-canvas.jpg",
+          "./assets/screenshot-price.jpg",
+          "./assets/screenshot-results.jpg"
+        ]
+      }
+    }
+  },
+  "repository": "https://github.com/MengTo/fil-plugins"
+}

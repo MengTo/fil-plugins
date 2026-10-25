@@ -1,0 +1,16 @@
+{
+  "name": "fil",
+  "description": "Fil’s plugin for Claude Code: your Fil canvas over MCP, and Fil’s skills.",
+  "owner": {
+    "name": "Fil",
+    "url": "https://fil.design"
+  },
+  "plugins": [
+    {
+      "name": "fil",
+      "source": "./plugins/fil",
+      "description": "Make images, video, 3D, websites, slides and social posts on your Fil canvas from Claude Code, with Fil's skills for landing pages, story videos, posts, HTML demos and reels.",
+      "category": "design"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fil": {
+      "type": "http",
+      "url": "https://fil.design/mcp"
+    }
+  }
+}
