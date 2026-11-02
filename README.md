@@ -23,7 +23,7 @@ claude plugin install fil@fil
 ## What's in it
 
 - **Fil's MCP server** (`https://fil.design/mcp`): canvases, prompts, files and generation nodes, sites, video edits. Runs that spend credits are priced first.
-- **Skills**: `/fil:setup` to get started, `fil-canvas` for working on a canvas, `landing-page`, `story-video`, `social-post`, and Fil's [HTML Demo](https://fil.design/skills/html-demo) and [HTML Reel](https://fil.design/skills/html-reel).
+- **Skills**: `/fil:setup` to get started, `fil-canvas` for working on a canvas, `landing-page`, `story-video`, `social-post`, and Fil's [HTML Demo](https://fil.design/skills/html-demo), [HTML Reel](https://fil.design/skills/html-reel) and [HTML Explainer Video](https://fil.design/skills/html-explainer-video).
 
 ## ChatGPT
 

@@ -9,7 +9,7 @@
     {
       "name": "fil",
       "source": "./plugins/fil",
-      "description": "Make images, video, 3D, websites, slides and social posts on your Fil canvas from Claude Code, with Fil's skills for landing pages, story videos, posts, HTML demos and reels.",
+      "description": "Make images, video, 3D, websites, slides and social posts on your Fil canvas from Claude Code, with Fil's skills for landing pages, story videos, posts, HTML demos, reels and explainer videos.",
       "category": "design"
     }
   ]
